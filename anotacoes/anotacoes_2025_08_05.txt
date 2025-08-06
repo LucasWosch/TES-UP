@@ -1,0 +1,1 @@
+Variável é dinâmica, tipada (possui um vários tipos), e ocupa um espaço na memória
