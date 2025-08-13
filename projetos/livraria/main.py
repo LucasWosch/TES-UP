@@ -1,9 +1,11 @@
 # classe Livro
-# função menu
-# função de cadastro
-# função de listagem
-# função de venda
-#   funcao de resumo (venda e estoque)
+# função/método de cadastro
+# função/método de listagem
+# função/método de venda
+# função/método de resumo (venda e estoque)
+
+# O QUE ENTREGAR
+
 
 # PASSO 1
 # MODELAGEM DE DADOS
@@ -23,3 +25,48 @@
 
 # PASSO 4
 # TIPOS DE ERROS E BUGS QUE PODEM DAR NOS PASSOS
+
+
+# ETAPA 1
+# MODELAGEM DE DADOS/DEFINIR FERRAMENTAS
+
+# ETAPA 2
+# SINTAXE
+
+# ETAPA 3
+# INTEGRAÇÃO DE SISTEMA
+
+# ETAPA 4
+# CONTAINER - PREVENSÃO DE BUGS
+
+# ETAPA 5
+# DEPLOY/VERSIONAMENTO
+
+
+
+# ATRIBUTOS
+# LIVRO (DICIONARIO)
+    # ID
+    # TITULO
+    # AUTOR
+    # PRECO
+    # ESTOQUE
+    # EDITORA
+    # GENERO
+    # DATA DE CADASTRO
+    # DATA DE ALTERACAO
+
+# VENDA
+    # ID
+    # DATA VENDA
+    # VALOR BRUTO
+    # DESCONTO APLICADO
+    # VALOR LIQUIDO
+
+# ITEM VENDA
+    # % DESCONTO
+    # LIMITE DESCONTO
+    # IMPOSTO
+    # VALOR DO LIVRO
+    # ID CLIENTE
+    # ID VENDA
